@@ -1,0 +1,27 @@
+{
+  "name": "@myfer/gitapi",
+  "version": "1.0.1",
+  "description": "A library that simplifies the usage of the GitHub api.",
+  "main": "package/index.js",
+  "scripts": {
+    "test": "node ./tests/gitapi.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myferr/gitapi.git"
+  },
+  "keywords": [
+    "api",
+    "github",
+    "ts"
+  ],
+  "author": "myfer <contactme.myfer@protonmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/myferr/gitapi/issues"
+  },
+  "homepage": "https://github.com/myferr/gitapi#readme",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
